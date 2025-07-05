@@ -20,10 +20,9 @@ Features
 
 PROJECT FILE STRUCTURE
 /your_project_folder
-│
-├── subdomain_enumerator.py
-├── subdomains.txt
-└── discovered_subdomains.txt  ← created after running script
+subdomain_enumerator.py
+subdomains.txt
+discovered_subdomains.txt  ← created after running script
 
 PROJECT FILES
 -subdomain_enumerator.py = main script
