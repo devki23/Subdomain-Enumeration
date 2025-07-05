@@ -1,0 +1,16 @@
+Subdomain Enumeration Tool
+
+A Python-based tool to perform subdomain enumeration using multithreading and HTTP requests.
+
+Features
+- Loads subdomains from `subdomains.txt`
+- Uses threads to check subdomain availability
+- Saves discovered subdomains to `discovered_subdomains.txt`
+
+ Requirements
+- Python 3
+- `requests` library
+
+How to Run
+python subdomain_enumerator.py
+
