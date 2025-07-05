@@ -19,9 +19,9 @@ Features
 - `requests` library
 
 PROJECT FILES:
--subdomain_enumerator.py = main script
--subdomains.txt = list of subdomains to check
--discovered_subdomains.txt = output (active subdomains)
+subdomain_enumerator.py = main script
+, subdomains.txt = list of subdomains to check
+, discovered_subdomains.txt = output (active subdomains)
 
 STEP-BY-STEP SOLUTION:
 
@@ -29,9 +29,11 @@ STEP 1: Prepare Your Files
 -Create a file named subdomains.txt in the same folder.
 [Subdomain_TXT_file](https://github.com/user-attachments/assets/b8ac92fa-df8a-49d7-80a1-284c18254e4a)
 
+
 STEP 2: Install Required Python Module
 -Open your terminal or command prompt and run:
 "pip install requests"
+
 
 STEP 3: Write the Script
 -Create a file called subdomain_enumerator.py,and use following code:
