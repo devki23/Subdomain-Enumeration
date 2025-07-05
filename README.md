@@ -19,12 +19,14 @@ Features
 - `requests` library
 
 PROJECT FILE STRUCTURE
-/your_project_folder
-subdomain_enumerator.py
-subdomains.txt
-discovered_subdomains.txt  ← created after running script
+
+-your_project_folder
+-subdomain_enumerator.py
+-subdomains.txt
+-discovered_subdomains.txt  ← created after running script
 
 PROJECT FILES
+
 -subdomain_enumerator.py = main script
 -subdomains.txt = list of subdomains to check
 -discovered_subdomains.txt = output (active subdomains)
