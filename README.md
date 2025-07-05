@@ -18,15 +18,7 @@ Features
 - Python 3
 - `requests` library
 
-PROJECT FILE STRUCTURE
-
--your_project_folder
--subdomain_enumerator.py
--subdomains.txt
--discovered_subdomains.txt  ← created after running script
-
-PROJECT FILES
-
+PROJECT FILES:
 -subdomain_enumerator.py = main script
 -subdomains.txt = list of subdomains to check
 -discovered_subdomains.txt = output (active subdomains)
@@ -39,7 +31,7 @@ STEP 1: Prepare Your Files
 
 STEP 2: Install Required Python Module
 -Open your terminal or command prompt and run:
-pip install requests
+"pip install requests"
 
 STEP 3: Write the Script
 -Create a file called subdomain_enumerator.py,and use following code:
