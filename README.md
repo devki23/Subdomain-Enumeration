@@ -20,8 +20,8 @@ Features
 
 PROJECT FILES:
 subdomain_enumerator.py = main script
-, subdomains.txt = list of subdomains to check
-, discovered_subdomains.txt = output (active subdomains)
+ ,  subdomains.txt = list of subdomains to check
+ ,  discovered_subdomains.txt = output (active subdomains)
 
 STEP-BY-STEP SOLUTION:
 
