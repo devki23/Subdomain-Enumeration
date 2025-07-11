@@ -21,7 +21,6 @@ Features:
 PROJECT FILES:<br>
 <br>
 - subdomain_enumerator.py = main script
-<br>
 - subdomains.txt = list of subdomains to check
 <br>
 - discovered_subdomains.txt = output (active subdomains)
