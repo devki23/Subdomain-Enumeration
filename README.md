@@ -19,7 +19,6 @@ Features
 - `requests` library
 
 PROJECT FILES:<br>
-
 <br>
 -subdomain_enumerator.py = main script
 <br>
