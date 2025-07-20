@@ -1,31 +1,29 @@
-Subdomain Enumeration Tool
+## Subdomain Enumeration Tool
 
 - A Python-based tool to perform subdomain enumeration using multithreading and HTTP requests. It scan the target domain.
 
-PREREQUISITES:
+## Prerequisites:
 - DNS basics = Understand what subdomains are (e.g., api.youtube.com)
 - Python syntax	= Writing loops, functions, file I/O
 - requests module =	To make HTTP GET requests
 - Threading in Python	= To speed up subdomain checks
 - Exception handling	= To prevent crashes on invalid subdomains
 
-Features:
+## Features:
 - Loads subdomains from `subdomains.txt`
 - Uses threads to check subdomain availability
 - Saves discovered subdomains to `discovered_subdomains.txt`
 
- Requirements:
+ ## Requirements:
 - Python 3
 - `requests` library
 
-PROJECT FILES:<br>
+## PROJECT FILES:
 - subdomain_enumerator.py = main script
 - subdomains.txt = list of subdomains to check
 - discovered_subdomains.txt = output (active subdomains)
-<br>
-
-STEP-BY-STEP SOLUTION:
-<br>
+  
+## STEP-BY-STEP SOLUTION:
 
 STEP 1: Prepare Your Files
 <br>
